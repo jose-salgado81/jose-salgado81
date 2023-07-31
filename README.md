@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jose-salgado81
 - 👀 I’m interested in technical writing
-- 🌱 I’m currently learning API documentation with Markdown, XML, and JSON.
-- 💞️ I’m looking to collaborate on UpWork
+- 🌱 I’m currently learning how to develop and deploy GPT-powered virtual agents for documentation assistance using Azure Cognitive.
 - 📫 How to reach me: https://wwww.josemanuelsalgado.com
 
 <!---
