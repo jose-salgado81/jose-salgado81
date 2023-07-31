@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @jose-salgado81
-- 👀 I’m interested in technical writing
-- 🌱 I’m currently learning how to develop and deploy GPT-powered virtual agents for documentation assistance using Azure Cognitive.
-- 📫 How to reach me: https://wwww.josemanuelsalgado.com
+- 👋 Hi, I'm José M. Salgado, MSc.
+- 👀 I’m interested in documentation and knowledge management.
+- 🌱 I’m currently learning how to develop and deploy GPT-powered virtual agents for documentation assistance.
+- 📫 How to reach me: [hola@josemanuelsalgado.com](mailto:hola@josemanuelsalgado.com).
+- 🏠 Visit my website at [https://www.josemanuelsalgado.com](https://www.josemanuelsalgado.com) to explore my portfolio, learn about the services I offer, read my blog, and find my contact information.
+
+
 
 <!---
 jose-salgado81/jose-salgado81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
