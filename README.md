@@ -1,6 +1,7 @@
 - 👋 Hi, I'm José M. Salgado, MSc.
 - 👀 I’m interested in documentation and knowledge management.
-- 🌱 I’m currently learning how to develop and deploy GPT-powered virtual agents for documentation assistance.
+- 🌱 I’m currently learning how to develop an AI-powered chatbot to deliver documentation (I call it "conversational documentation").
+- 📚 Actively pursuing the [IBM Data Science professional certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 - 📫 How to reach me: [hola@josemanuelsalgado.com](mailto:hola@josemanuelsalgado.com).
 - 🏠 Visit my website at [https://www.josemanuelsalgado.com](https://www.josemanuelsalgado.com) to explore my portfolio, learn about the services I offer, read my blog, and find my contact information.
 
